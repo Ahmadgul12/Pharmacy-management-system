@@ -24,6 +24,7 @@ Follow these steps to install the application.
 
 ```
 git clone https://github.com/Ahmadgul12/Pharmacy-management-system.git
+git clone https://github.com/Ahmadgul12/Pharmacy-management-system.git
 ```
 
 2. Go to project directory
@@ -208,3 +209,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
