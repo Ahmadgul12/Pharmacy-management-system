@@ -20,7 +20,7 @@
  Follow these steps to install the application.
 1. Clone the Repository
 ```
-git clone https://github.com/ahmadgul12/Pharmacy-management-system.git
+git clone https://github.com/Ahmadgul12/Pharmacy-management-system.git
 ```
 2. Go to project directory
 
